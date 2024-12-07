@@ -61,9 +61,9 @@ This project focuses on:
 
 PSNR (Peak Signal-to-Noise Ratio) quantifies the quality of image reconstruction using the formula:
 
-$\[
+$\
 PSNR = 10 \cdot \log_{10}\left(\frac{R^2}{MSE}\right)
-\]$
+\$
 
 Where:
 - \(R\) is the maximum possible pixel value, typically \(255\) for 8-bit images.
@@ -105,8 +105,7 @@ The figures below demonstrate the compression results for:
 ![figure 1](./Images/lena-n4.jpg)
 
 3. A model with **64 hidden neurons**, trained with the same conditions.
-
- ![figure 2](./Images/lena-n64.jpg)
+![figure 2](./Images/lena-n64.jpg)
 
 ---
 
