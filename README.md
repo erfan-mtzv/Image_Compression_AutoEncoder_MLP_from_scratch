@@ -106,7 +106,7 @@ The figures below demonstrate the compression results for:
 
 3. A model with **64 hidden neurons**, trained with the same conditions.
 
-![figure 2](./Images/lena-n64.jpg)
+ ![figure 2](./Images/lena-n64.jpg)
 
 ---
 
